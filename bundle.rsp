@@ -1,0 +1,4 @@
+bundle
+--language cs,csproj
+--note
+--sort type
